@@ -1,4 +1,8 @@
-# Clove's PluralCraft
+# DEPRECATED
+
+This mod is unable to be updated due to a mix of lack of FabricAPI knowlage and personal time usage. If you want to use this repo as a starter for your own, please feel free to fork it!
+
+### Clove's PluralCraft
 
 Clove's PluralCraft is a Minecraft mod/plugin that allows players to manage and display their system fronts in chat. It is designed for **plural communities**, enabling members to use different front names while playing.
 
